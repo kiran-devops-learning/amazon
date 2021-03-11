@@ -1,1 +1,2 @@
-s is a test file for testing the git
+s is a test case here 
+i removed it for editioing
